@@ -1,0 +1,19 @@
+{
+  "name": "AMS Lite Plus — Manajemen Surat Digital",
+  "short_name": "AMS Lite Plus",
+  "description": "Aplikasi Manajemen Surat Multi-Tenant, Disposisi, Virtual Loket Nomor Agenda, Paraf QR & E-Arsip Digital.",
+  "start_url": "./pwa-wrapper.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1e2246",
+  "theme_color": "#1e2246",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0' y1='0' x2='1' y2='1'%3E%3Cstop offset='0%25' stop-color='%234361ee'/%3E%3Cstop offset='100%25' stop-color='%237b2cbf'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='512' height='512' rx='112' fill='url(%23g)'/%3E%3Cpath fill='%23fff' d='M96 152c0-22 18-40 40-40h240c22 0 40 18 40 40v208c0 22-18 40-40 40H136c-22 0-40-18-40-40V152zm40 0l120 96 120-96H136zm240 208V192l-120 96-120-96v168h240z'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
